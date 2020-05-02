@@ -133,7 +133,7 @@ void loop() {
 
 }
 
-void apagaleds() { // Função apaga os 4 leds xxxx
+void apagaleds() { // Função apaga os 4 leds 
     digitalWrite(6, LOW);
     digitalWrite(8, LOW);
     digitalWrite(9, LOW);
